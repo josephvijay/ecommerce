@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Vajro Styles</string>
+    <string name="vajro">Vajro</string>
+    <string name="vajrostyles">Vajro Styles</string>
+    <string name="add">Add</string>
+    <string name="dressstore">Dress Store</string>
+    <string name="shopingbag">Shopping Bag</string>
+    <string name="hey">Hey, it feels so light!</string>
+    <string name="noitem">There is nothing in your bag. Let\'s add some items</string>
+    <string name="details">Details</string>
+    <string name="total">Total:</string>
+    <string name="checkout">Checkout</string>
+    <string name="subtotal">Sub Total:</string>
+    <string name="tax">Tax 5%:</string>
+    <string name="service">Service:</string>
+</resources>
